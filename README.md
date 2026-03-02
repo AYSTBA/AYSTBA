@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jacker
 
-<!--
-**AYSTBA/AYSTBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Awards
+- Shenzhen City Tech Young Talent (3-Star Level)
+- Tech learning & competition experience in Singapore, Beijing, Malaysia
 
-Here are some ideas to get you started:
+## 📌 About
+❤️ I love Open Source
+✨ Owner of Byte Miao
+💬 Ask me about Python, HTML, CSS, JS, GoBot
+📫 How to reach me: Feel free to talk with me
+⚡ I love programming, photography, music, AI and games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: Python, HTML, CSS, JavaScript, GoBot
+- Learning: Go, Distributed Computing
+- Tech: Build NAS, PC, Server, Studio, Robot
+- Digital: Device evaluation, new tech exploration
+
+## 📊 GitHub Stats
+- Total GitHub Stars: 4
+- Top Programming Languages: Python
+
+## 📞 Get In Touch
+- QQ: 298638937
+- Email: 13510928805@163.com / pcll2@qq.com (It has nothing to do with the PCL Minecraft launcher from Longteng Maoyue)
+
+I am a junior high school developer who loves creation. I like to listen to others and explore the infinite possibilities of technology 😁
