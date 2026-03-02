@@ -6,10 +6,17 @@
 
 ## 📌 About
 ❤️ I love Open Source
+
 ✨ Owner of Byte Miao
+
 💬 Ask me about Python, HTML, CSS, JS, GoBot
+
 📫 How to reach me: Feel free to talk with me
-⚡ I love programming, photography, music, AI and games
+
+
+## 🎮 Hobbies
+- Programming, photography, music, AI & games
+- A self-proclaimed "ACG omnivore" with a deep love for anime, manga, games, and all things subculture 🎨
 
 ## 🛠️ Skills
 - Languages: Python, HTML, CSS, JavaScript, GoBot
