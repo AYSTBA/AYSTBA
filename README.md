@@ -7,7 +7,7 @@
 ## 📌 About
 ❤️ I love Open Source
 
-✨ Owner of Byte Miao
+✨ Owner of bit-miao_Studio_
 
 💬 Ask me about Python, HTML, CSS, JS, GoBot
 
