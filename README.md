@@ -9,7 +9,7 @@
 
 ✨ Owner of bit-miao_Studio_
 
-💬 Ask me about Python, HTML, CSS, JS, GoBot
+💬 Ask me about Python, HTML, CSS, JS, Godot
 
 📫 How to reach me: Feel free to talk with me
 
