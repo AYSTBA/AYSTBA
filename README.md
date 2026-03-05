@@ -13,6 +13,8 @@
 
 📫 How to reach me: Feel free to talk with me
 
+😎"Turing School" developer (a meme in China)
+
 
 ## 🎮 Hobbies
 - Programming, photography, music, AI & games
@@ -23,6 +25,8 @@
 - Learning: JavaScript-node.js, Distributed Computing
 - Tech: Build NAS, PC, Server, Studio, Robot
 - Digital: Device evaluation, new tech exploration
+
+> I believe technology is a tool to solve problems, not an end in itself. I enjoy the process of creating from 0 to 1.
 
 ## 📊 GitHub Stats
 - Total GitHub Stars: 4
