@@ -7,7 +7,7 @@
 ## 📌 About
 ❤️ I love Open Source
 
-✨ Owner of bit-miao_Studio_
+✨ Owner of bit-miaoStudio_
 
 💬 Ask me about Python, HTML, CSS, JS, Godot
 
