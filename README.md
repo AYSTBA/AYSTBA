@@ -7,13 +7,15 @@
 ## 📌 About
 ❤️ I love Open Source
 
+❤️ I like DJI devices
+
 ✨ Owner of bit-miao_Studio_
 
 💬 Ask me about Python, HTML, CSS, JS, Godot
 
 📫 How to reach me: Feel free to talk with me
 
-😎"Turing School" developer (a meme in China)
+😎"Turing faction" developer (a meme in China)
 
 
 ## 🎮 Hobbies
