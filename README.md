@@ -22,7 +22,7 @@
 - Programming, photography, music, AI & games
 - A self-proclaimed "ACG omnivore" with a deep love for anime, manga, games, and all things subculture 🎨
 
-## 🛠️ Skills
+## 🛠️ My Skills
 - Languages: Python, HTML, CSS, JavaScript, GoBot
 - Learning: JavaScript-node.js, Distributed Computing
 - Tech: Build NAS, PC, Server, Studio, Robot
