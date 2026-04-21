@@ -15,7 +15,7 @@
 
 📫 How to reach me: Feel free to talk with me
 
-😎"Turing faction" developer (a meme in China)
+😎"Turing faction" developer (a "梗" in China)
 
 
 ## 🎮 Hobbies
