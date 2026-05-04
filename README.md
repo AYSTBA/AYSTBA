@@ -1,4 +1,4 @@
-### [English](README_en.md) | [中文](README_cn.md)
+### [English](README.md) | [中文](README_cn.md)
 
 # 👋 Hi there, I'm AYSTBA
 
