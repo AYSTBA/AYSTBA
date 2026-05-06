@@ -7,12 +7,17 @@
 * 深圳市科技小达人（三星）
 * 新加坡、北京、马来西亚等地科技研学与竞赛经历
 * 2021年 开启编程学习之路
-* 第三届深港澳人工智能大赛（乐博乐博赛道）一等奖
+* 2021 第三届深港澳人工智能大赛（乐博乐博赛道）一等奖
+* 2022 深圳市龙岗区三维程序创意设计 市级一等奖
+* 2023 龙岗区人工智能创新实践赛博朋克创意设计小学组 国家级一等奖
+* 2023 龙岗区无线电多旋翼无人机 区级三等奖
 * 脑科学、人工智能智能挑战赛 国家二等奖
 * 2024 深圳市龙岗区青少年航空模型竞赛 二等奖
 * 2024 世界机器人大赛昆明锦标赛 国家二等奖
 * 2024 中国自动化人工智能教育大会智能家居 国家二等奖
 * 2024 世界机器人大赛南宁锦标赛 国家三等奖
+* 第一届粤创杯AI应用组 二等奖
+* 2025 世界机器人大赛三亚锦标赛 国家二等奖
 * 2025 世界机器人大赛总决赛 国家二等奖
 
 ## 📌 关于我
@@ -77,12 +82,17 @@
 * Shenzhen Tech Talent (3-Star Level)
 * Tech research & competition experience in Singapore, Beijing, Malaysia
 * Started learning programming in 2021
-* 3rd Shenzhen-Hong Kong-Macau AI Competition (Roborobo Track) - First Prize
+* 2021 3rd Shenzhen-Hong Kong-Macau AI Competition (Roborobo Track) - First Prize
+* 2022 Shenzhen Longgang District 3D Program Creative Design - Municipal First Prize
+* 2023 Longgang District AI Innovation Cyberpunk Creative Design(Primary Group) - National First Prize
+* 2023 Longgang District Radio Multi-rotor UAV Competition - District Third Prize
 * NeuroMaster Brain Science & AI Challenge - National Second Prize
 * 2024 Shenzhen Longgang District Youth Aviation Model Competition - Second Prize
 * 2024 World Robot Contest Kunming Championship - National Second Prize
 * 2024 China Automation & AI Education Conference Smart Home - National Second Prize
 * 2024 World Robot Contest Nanning Championship - National Third Prize
+* 1st Yuechuang Cup AI Application Competition - Second Prize
+* 2025 World Robot Contest Sanya Championship - National Second Prize
 * 2025 World Robot Contest Finals - National Second Prize
 
 ## 📌 About Me
@@ -132,5 +142,6 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=AYSTBA&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![Visitor](https://komarev.com/ghpvc/?username=AYSTBA&color=blue)
+
 
 I am a junior high school developer who loves creation.I like to listen to others and explore the infinite possibilities of technology 😁
