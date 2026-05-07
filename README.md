@@ -83,7 +83,9 @@
 
 * Shenzhen Tech Talent (3-Star Level)
 * Tech research & competition experience in Singapore, Beijing, Malaysia
+  
   ---
+  
 * Started learning programming in 2020
 * 2020 2nd Shenzhen-Hong Kong-Macau AI Competition & AI Science Carnival
 * 2021 3rd Shenzhen-Hong Kong-Macau AI Competition (Roborobo Track) - First Prize
