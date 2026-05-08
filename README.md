@@ -65,9 +65,10 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-AYSTBA-00A0D2?style=flat-square)](https://space.bilibili.com/3546948852255258)
 [![Outlook](https://img.shields.io/badge/Email-Outlook-green?style=flat-square)](mailto:AYSTBA_aystba@outlook.com)
 [![163 Mail](https://img.shields.io/badge/Email-163-green?style=flat-square)](mailto:13510928805@163.com)
-[![QQ](https://img.shields.io/badge/QQ-298638937-12B7F5?style=flat-square&logo=tencentqq)](https://s41.ax1x.com/2026/05/04/peH37SU.jpg)
+[![QQ](https://img.shields.io/badge/QQ-298638937-12B7F5?style=flat-square&logo=tencentqq)](https://s41.ax1x.com/2026/05/07/peqmtpQ.jpg)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=AYSTBA&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Visitor](https://komarev.com/ghpvc/?username=AYSTBA&color=blue)
 
 
@@ -83,6 +84,9 @@
 
 * Shenzhen Tech Talent (3-Star Level)
 * Tech research & competition experience in Singapore, Beijing, Malaysia
+  
+  ---
+  
 * Started learning programming in 2020
 * 2020 2nd Shenzhen-Hong Kong-Macau AI Competition & AI Science Carnival
 * 2021 3rd Shenzhen-Hong Kong-Macau AI Competition (Roborobo Track) - First Prize
@@ -141,9 +145,10 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-AYSTBA-00A0D2?style=flat-square)](https://space.bilibili.com/3546948852255258)
 [![Outlook](https://img.shields.io/badge/Email-Outlook-green?style=flat-square)](mailto:AYSTBA_aystba@outlook.com)
 [![163 Mail](https://img.shields.io/badge/Email-163-green?style=flat-square)](mailto:13510928805@163.com)
-[![QQ](https://img.shields.io/badge/QQ-298638937-12B7F5?style=flat-square&logo=tencentqq)](https://s41.ax1x.com/2026/05/04/peH37SU.jpg)
+[![QQ](https://img.shields.io/badge/QQ-298638937-12B7F5?style=flat-square&logo=tencentqq)](https://s41.ax1x.com/2026/05/07/peqmtpQ.jpg)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=AYSTBA&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Visitor](https://komarev.com/ghpvc/?username=AYSTBA&color=blue)
 
 
