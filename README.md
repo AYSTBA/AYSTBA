@@ -51,7 +51,7 @@
   
 * 正在学习：Node.js、分布式计算
   
-* 实践方向：NAS 搭建、台式机/服务器、个人工作室、机器人制作
+* 实践方向：涵盖桌面/服务器、机器人制造、ai与自动化以及AI VibeCoding
   
 * 数码爱好：设备测评、前沿科技探索
   
@@ -127,7 +127,7 @@
   
 * Learning: Node.js, Distributed Computing
   
-* Practice: NAS building, PC / Server, Studio, Robot production
+* Practice: Covering Desktop/Server, Robotics Fabrication, AI & Intelligent Systems, and AI Vibe Coding.
   
 * Digital: Device review & cutting-edge tech exploration
   
