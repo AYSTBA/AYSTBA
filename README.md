@@ -45,11 +45,13 @@
 
 ## 🛠️ 技能 & 学习中
 
-* 编程语言：
+* 我的专业技能：
   
-  ![](https://skillicons.dev/icons?i=python,html,css,js,godot&theme=dark)
-  
-* 正在学习：Node.js、分布式计算
+  ![](https://skillicons.dev/icons?i=python,html,css,js,godot,apple,css&theme=dark)
+
+  ![](https://skillicons.dev/icons?i=github,git,js,linux,ubuntu,windows,sqlite,ts=dark)
+
+* 正在学习：Node.js、分布式计算，Agent，DJI-RoboMaster
   
 * 实践方向：涵盖桌面/服务器、机器人制造、ai与自动化以及AI VibeCoding
   
@@ -65,7 +67,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-AYSTBA-00A0D2?style=flat-square)](https://space.bilibili.com/3546948852255258)
 [![Outlook](https://img.shields.io/badge/Email-Outlook-green?style=flat-square)](mailto:AYSTBA_aystba@outlook.com)
 [![163 Mail](https://img.shields.io/badge/Email-163-green?style=flat-square)](mailto:13510928805@163.com)
-[![QQ](https://img.shields.io/badge/QQ-298638937-12B7F5?style=flat-square&logo=tencentqq)](https://e5b011767104-0.xsywius.fnos.net/i/2026/05/10/6a0024cd9a48d.jpg)
+![QQ](https://img.shields.io/badge/QQ-298638937-12B7F5?style=flat-square&logo=tencentqq)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=AYSTBA&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -125,11 +127,13 @@
 
 ## 🛠️ Skills & Learning
 
-* Languages:
+* My professional skills:
   
-  ![](https://skillicons.dev/icons?i=python,html,css,js,godot&theme=dark)
+  ![](https://skillicons.dev/icons?i=python,html,css,js,godot,apple,css&theme=dark)
+
+  ![](https://skillicons.dev/icons?i=github,git,js,linux,ubuntu,windows,sqlite,ts=dark)
   
-* Learning: Node.js, Distributed Computing
+* Learning: Node.js, Distributed Computing，Agent，DJI-RoboMaster
   
 * Practice: Covering Desktop/Server, Robotics Fabrication, AI & Intelligent Systems, and AI Vibe Coding.
   
