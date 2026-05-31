@@ -28,7 +28,7 @@
 
 ❤️ 喜欢大疆全系列产品
 
-✨ 比特喵~ 工作室创立人
+✨ UPCHIS工作室创立人
 
 💬 可以向我请教 Python、HTML、CSS、JS、Godot 相关问题
 
@@ -110,7 +110,7 @@
 
 ❤️ Big fan of DJI products
 
-✨ Founder of Bit-Miao Studio
+✨ Founder of UPCHIS Studio
 
 💬 Feel free to ask me about Python, HTML, CSS, JS, Godot
 
