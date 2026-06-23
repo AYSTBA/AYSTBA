@@ -13,7 +13,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AYSTBA&color=ff6b6b&style=flat-square&label=%F0%9F%91%8B+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/AYSTBA?color=58A6FF&style=flat-square&logo=github&label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/AYSTBA?color=FFD700&style=flat-square&logo=github&label=Stars)
-![Total Commits](https://img.shields.io/github/search/commits?q=user:AYSTBA&style=flat-square&logo=github&color=4CAF50&label=Commits)
+![Total Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AYSTBA&query=$.public_repos&label=Repos&style=flat-square&logo=github&color=4CAF50)
 
 <br><br>
 
