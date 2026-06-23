@@ -13,17 +13,24 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AYSTBA&color=ff6b6b&style=flat-square&label=%F0%9F%91%8B+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/AYSTBA?color=58A6FF&style=flat-square&logo=github&label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/AYSTBA?color=FFD700&style=flat-square&logo=github&label=Stars)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/AYSTBA?color=4CAF50&style=flat-square&label=Last+Commit)
+![Total Commits](https://img.shields.io/github/search/commits?q=user:AYSTBA&style=flat-square&logo=github&color=4CAF50&label=Commits)
 
 <br><br>
 
 <!-- ========== ABOUT ME ========== -->
 
-👨‍💻
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="120" alt="AYSTBA"/
+
+
+<br>AYSTBA
+></h1><br>
+
+
 
 </div>
 
----
+
+
 
 # <span id="cn">👋 你好，我是 AYSTBA</span>
 
