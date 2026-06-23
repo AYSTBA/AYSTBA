@@ -19,7 +19,7 @@
 
 <!-- ========== ABOUT ME ========== -->
 
-<img width="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" />
+👨‍💻
 
 </div>
 
@@ -27,7 +27,7 @@
 
 # <span id="cn">👋 你好，我是 AYSTBA</span>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Medal.png" alt="Medal" width="35"/> 荣誉经历
+## 🏆 荣誉经历
 
 > 🎖️ 深圳市科技小达人（三星） | 新加坡、北京、马来西亚等地科技研学与竞赛经历
 
@@ -49,7 +49,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullseye.png" alt="Target" width="35"/> 关于我
+## 🎯 关于我
 
 |  |  |
 |:---:|:---|
@@ -63,7 +63,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="35"/> 兴趣爱好
+## 🎮 兴趣爱好
 
 > 编程、摄影、音乐、人工智能、游戏
 > 
@@ -71,7 +71,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35"/> 技能 & 学习中
+## 🛠️ 技能 & 学习中
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35"/> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -110,7 +110,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="35"/> Find Me
+## 📬 Find Me
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 # <span id="en">👋 Hi there, I'm AYSTBA</span>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Medal.png" alt="Medal" width="35"/> Awards
+## 🏆 Awards
 
 > 🎖️ Shenzhen Tech Talent (3-Star Level) | Tech research & competition experience in Singapore, Beijing, Malaysia
 
@@ -153,7 +153,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullseye.png" alt="Target" width="35"/> About Me
+## 🎯 About Me
 
 |  |  |
 |:---:|:---|
@@ -167,7 +167,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="35"/> Hobbies
+## 🎮 Hobbies
 
 > Programming, photography, music, AI, games
 > 
@@ -175,7 +175,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35"/> Skills & Learning
+## 🛠️ Skills & Learning
 
 <div align="center">
 
@@ -202,7 +202,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35"/> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -214,7 +214,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="35"/> Find Me
+## 📬 Find Me
 
 <div align="center">
 
